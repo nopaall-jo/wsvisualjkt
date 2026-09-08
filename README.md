@@ -84,9 +84,9 @@ wsvisualjkt/
 ### Menggunakan PHP Built-in Server:
 ```bash
 cd wsvisualjkt
-php -S localhost:8000
+php -S ~-----~
 ```
-Buka browser pada `http://localhost:8000/`.
+Buka browser pada `http://localhost:~_---_~/`.
 
 ---
 
