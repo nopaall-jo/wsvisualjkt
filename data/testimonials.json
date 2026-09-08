@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Budi Santoso",
+    "role": "Wisudawan UI 2026",
+    "service": "graduation",
+    "service_label": "🎓 Wisuda",
+    "rating": 5,
+    "badge_class": "text-primary",
+    "avatar_bg": "bg-primary",
+    "comment": "Pelayanan ramah dan hasil foto cinematic super memuaskan!",
+    "created_at": "2026-08-20 14:30:00"
+  },
+  {
+    "id": 2,
+    "name": "Dewi Lestari",
+    "role": "Wisudawati Trisakti 2026",
+    "service": "graduation",
+    "service_label": "🎓 Wisuda",
+    "rating": 5,
+    "badge_class": "text-primary",
+    "avatar_bg": "bg-primary",
+    "comment": "Foto wisudanya keren banget, pengarahannya asik dan ga kaku sama sekali. Recommended banget!",
+    "created_at": "2026-08-22 10:15:00"
+  },
+  {
+    "id": 3,
+    "name": "Rizky & Tim Trip Lesehan",
+    "role": "Participant Belitung Expedition",
+    "service": "trip",
+    "service_label": "🌄 Overland Trip",
+    "rating": 5,
+    "badge_class": "text-amber",
+    "avatar_bg": "bg-amber",
+    "comment": "Paket Drone + Kamera pas trip Belitung kemarin beneran worth it parah. Video reels-nya rame banget di TikTok. Hasil foto landscape tajem dan tone warna sinematiknya dapet banget!",
+    "created_at": "2026-08-25 09:15:00"
+  }
+]
