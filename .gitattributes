@@ -1,0 +1,15 @@
+# -----------------------------------------------------------------------------
+# GitHub Linguist Configuration
+# Force all PHP files to be detected as PHP (prevent Hack misclassification)
+# -----------------------------------------------------------------------------
+*.php linguist-language=PHP
+components/*.php linguist-language=PHP
+includes/*.php linguist-language=PHP
+api/*.php linguist-language=PHP
+
+# -----------------------------------------------------------------------------
+# Language Detection Overrides
+# Exclude standalone HTML redirect & JSON data from language statistics
+# -----------------------------------------------------------------------------
+index.html linguist-detectable=false
+data/*.json linguist-detectable=false
