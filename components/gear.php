@@ -62,7 +62,7 @@
 
       <div class="col-lg-6 scroll-reveal delay-2">
         <div class="card border-0 shadow-sm rounded-4 overflow-hidden">
-          <img src="assets/foto/drone_1.jpg" alt="Drone Coverage" class="img-fluid object-fit-cover" style="height: 420px;">
+          <img src="assets/foto/tujuh.JPG" alt="Cinematic Landscape Coverage" class="img-fluid object-fit-cover" style="height: 420px;">
         </div>
       </div>
     </div>

@@ -13,32 +13,32 @@
         <div class="swiper-wrapper">
           <!-- Slide 1: Graduation -->
           <div class="swiper-slide">
-            <img src="assets/foto/graduation_1.jpg" alt="Graduation Portrait">
+            <img src="assets/foto/satu.jpg" alt="Graduation Portrait UHAMKA">
           </div>
 
-          <!-- Slide 2: Trip & Travel — Bromo Sunrise (centered on load) -->
+          <!-- Slide 2: Trip & Travel — Banda Neira Landscape -->
           <div class="swiper-slide">
-            <img src="assets/foto/trip_1.jpg" alt="Trip & Travel Expedition">
+            <img src="assets/foto/tujuh.JPG" alt="Banda Neira Nature Landscape">
           </div>
 
-          <!-- Slide 3: Live Event Concert -->
+          <!-- Slide 3: School Portrait -->
           <div class="swiper-slide">
-            <img src="assets/foto/event_1.jpg" alt="Live Event Concert Stage">
+            <img src="assets/foto/dua.JPG" alt="School Friendship Portrait">
           </div>
 
-          <!-- Slide 4: F1 Night Race — Las Vegas Strip -->
+          <!-- Slide 4: Event & Gathering -->
           <div class="swiper-slide">
-            <img src="assets/foto/rblas.jpg" alt="F1 Night Race Las Vegas">
+            <img src="assets/foto/sembilan.jpg" alt="Community Event Gathering">
           </div>
 
-          <!-- Slide 5: F1 Race Start Grid -->
+          <!-- Slide 5: Graduation Couple -->
           <div class="swiper-slide">
-            <img src="assets/foto/start.jpg" alt="F1 Race Start Grid">
+            <img src="assets/foto/lima.jpg" alt="Graduation Couple Portrait">
           </div>
 
-          <!-- Slide 6: Barcelona Trophy Celebration -->
+          <!-- Slide 6: Mountain Trip -->
           <div class="swiper-slide">
-            <img src="assets/foto/barcasupercopa (14).jpg" alt="Victory Trophy Celebration">
+            <img src="assets/foto/sebelas.jpg" alt="Mountain Overland Expedition">
           </div>
         </div>
         <div class="swiper-pagination"></div>
@@ -59,79 +59,85 @@
       <!-- Item 1: Graduation (Page 1, Row 1, Col 1) -->
       <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="graduation">
         <div class="pure-photo-card">
-          <img src="assets/foto/graduation_1.jpg" alt="Graduation Portrait 1">
+          <img src="assets/foto/satu.jpg" alt="Graduation Portrait UHAMKA">
         </div>
       </div>
 
-      <!-- Item 2: Night Racetrack Motion Blur (Page 1, Row 1, Col 2 - assets/foto/a.jpg) -->
-      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="event">
+      <!-- Item 2: School (Page 1, Row 1, Col 2) -->
+      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="school">
         <div class="pure-photo-card">
-          <img src="assets/foto/a.jpg" alt="Night Track Motion Action">
+          <img src="assets/foto/dua.JPG" alt="School Uniform Portrait">
         </div>
       </div>
 
-      <!-- Item 3: F1 Track Cars Rounding Corner (Page 1, Row 1, Col 3 - assets/foto/b.jpg) -->
-      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="event">
+      <!-- Item 3: Trip (Page 1, Row 1, Col 3) -->
+      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="trip">
         <div class="pure-photo-card">
-          <img src="assets/foto/b.jpg" alt="F1 Racing Cornering Action">
+          <img src="assets/foto/tujuh.JPG" alt="Banda Neira Landscape">
         </div>
       </div>
 
-      <!-- Item 4: F1 Start Grid under Rolex Bridge (Page 1, Row 2, Col 1 - assets/foto/start.jpg) -->
+      <!-- Item 4: Event (Page 1, Row 2, Col 1) -->
       <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="event">
         <div class="pure-photo-card">
-          <img src="assets/foto/start.jpg" alt="Motorsport Start Grid">
+          <img src="assets/foto/sembilan.jpg" alt="Community Event Gathering">
         </div>
       </div>
 
-      <!-- Item 5: Concert Festival Stage (Page 1, Row 2, Col 2 - assets/foto/event_1.jpg) -->
-      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="event">
+      <!-- Item 5: Graduation (Page 1, Row 2, Col 2) -->
+      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="graduation">
         <div class="pure-photo-card">
-          <img src="assets/foto/event_1.jpg" alt="Live Fest Concert Stage">
+          <img src="assets/foto/lima.jpg" alt="Graduation Cum Laude STT-NF">
         </div>
       </div>
 
-      <!-- Item 6: Barca Campeones Stage Trophy Celebration (Page 1, Row 2, Col 3 - assets/foto/barcasupercopa (14).jpg) -->
-      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="event">
+      <!-- Item 6: Trip (Page 1, Row 2, Col 3) -->
+      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="trip">
         <div class="pure-photo-card">
-          <img src="assets/foto/barcasupercopa (14).jpg" alt="Victory Trophy Celebration">
+          <img src="assets/foto/sebelas.jpg" alt="Mountain Prairie Expedition">
         </div>
       </div>
 
       <!-- Page 2 Items: Additional Photos for Categories -->
+      <!-- Item 7: School (Page 2, Row 1, Col 1) -->
+      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="school">
+        <div class="pure-photo-card">
+          <img src="assets/foto/tiga.jpg" alt="School Activity SMA Negeri 8 Jakarta">
+        </div>
+      </div>
+
+      <!-- Item 8: Graduation (Page 2, Row 1, Col 2) -->
       <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="graduation">
         <div class="pure-photo-card">
-          <img src="assets/foto/graduation_1.jpg" alt="Graduation Portrait Session 2">
+          <img src="assets/foto/enam.jpg" alt="Family Graduation Celebration">
         </div>
       </div>
 
+      <!-- Item 9: School (Page 2, Row 1, Col 3) -->
       <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="school">
         <div class="pure-photo-card">
-          <img src="assets/foto/garagde.jpg" alt="School Activity &amp; Event 1" onerror="this.src='assets/foto/a.jpg'">
+          <img src="assets/foto/empat.jpg" alt="School Japanese Gakuran Style">
         </div>
       </div>
 
-      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="school">
-        <div class="pure-photo-card">
-          <img src="assets/foto/mexico.jpg" alt="School Activity 2" onerror="this.src='assets/foto/b.jpg'">
-        </div>
-      </div>
-
+      <!-- Item 10: Trip (Page 2, Row 2, Col 1) -->
       <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="trip">
         <div class="pure-photo-card">
-          <img src="assets/foto/trip_1.jpg" alt="Bromo Travel Expedition 1">
+          <img src="assets/foto/delapan.jpg" alt="Coastal Volcano Landscape">
         </div>
       </div>
 
-      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="trip">
+      <!-- Item 11: Event (Page 2, Row 2, Col 2) -->
+      <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="event">
         <div class="pure-photo-card">
-          <img src="assets/foto/ferlasv.jpg" alt="Outdoor Travel Adventure 2" onerror="this.src='assets/foto/trip_1.jpg'">
+          <img src="assets/foto/sepuluh.jpg" alt="Outdoor Gathering Session">
         </div>
       </div>
 
+      <!-- Item 12: Trip (Page 2, Row 2, Col 3) -->
       <div class="col-6 col-md-6 col-lg-4 portfolio-item" data-category="trip">
         <div class="pure-photo-card">
-          <img src="assets/foto/drone_1.jpg" alt="Aerial Drone Landscape Trip 3">
+          <img src="assets/foto/trip_1.jpg" alt="Bromo Overland Sunrise Trip">
         </div>
       </div>
     </div>
